@@ -1,2 +1,6 @@
-# FlowLocation-Android-Kotlin
-Coroutines Flow Location API Library for Android
+# FlowLocation
+
+
+## Coroutine + Flow = :heart:
+*   Kotlin Coroutines Flow
+*   Google Play Service
