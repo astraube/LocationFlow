@@ -1,2 +1,2 @@
-# AppLocation-Android-Kotlin
-Coroutines Location API Library for Android
+# FlowLocation-Android-Kotlin
+Coroutines Flow Location API Library for Android
